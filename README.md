@@ -1,1 +1,1 @@
-# id-sailfishOS-translation
+# id-SailfishOS-translation
