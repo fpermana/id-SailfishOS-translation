@@ -695,7 +695,7 @@
         <location filename="../declarative/PeakSyncOptions.qml" line="64"></location>
         <source>Off-peak interval</source>
         <extracomment>Peak interval for data sync (e.g. user can click to choose to sync every 15 minutes, every hour, etc.) during designated off-peak period</extracomment>
-        <translation>Di luar puncak interval</translation>
+        <translation>Diluar puncak interval</translation>
     </message>
     <message id="settings-accounts-la-peak_start">
         <location filename="../declarative/PeakSyncOptions.qml" line="80"></location>
@@ -782,7 +782,7 @@
         <location filename="../declarative/SyncPastPeriodOptions.qml" line="49"></location>
         <source>Sync events from</source>
         <extracomment>Label for options allowing selection of the earliest time from which data should be synced. E.g. if "2 weeks" option is selected, data that is more than 2 weeks old will not be synced.</extracomment>
-        <translation>Sinkronkan acara dari</translation>
+        <translation>Sinkronkan peristiwa dari</translation>
     </message>
     <message id="settings-accounts-la-download_events_from">
         <location filename="../declarative/SyncPastPeriodOptions.qml" line="52"></location>
@@ -808,7 +808,7 @@
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="351"></location>
         <source>Sync content</source>
         <extracomment>Click to show options on how often content should be synced with the server</extracomment>
-        <translation>Selaraskan konten</translation>
+        <translation>Sinkronkan konten</translation>
     </message>
     <message id="settings-accounts-la-download_new_content">
         <location filename="../declarative/SyncScheduleOptions.qml" line="76"></location>
@@ -1263,7 +1263,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="310"></location>
         <source>Sync emails</source>
         <extracomment>Click to show options on how often emails should be fetched from the server</extracomment>
-        <translation>Sinkronisasi surel</translation>
+        <translation>Sinkronkan surel</translation>
     </message>
     <message id="jolla_settings_accounts_extensions-la-facebook_duplicate_account">
         <location filename="../extensions/ui/facebook.qml" line="28"></location>
@@ -1319,7 +1319,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="153"></location>
         <source>Sync</source>
         <extracomment>Options for data to be synced with a remote server</extracomment>
-        <translation>Sinkronisasi</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="settings-accounts-la-sync">
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="196"></location>
@@ -1357,13 +1357,13 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="300"></location>
         <source>Email sync</source>
         <extracomment>Options for email sync</extracomment>
-        <translation>Sinkronisasi surel</translation>
+        <translation>Sinkronkan surel</translation>
     </message>
     <message id="settings-accounts-la-content_sync">
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="342"></location>
         <source>Content sync</source>
         <extracomment>Options for data sync</extracomment>
-        <translation>Sinkronisasi konten</translation>
+        <translation>Sinkronkan konten</translation>
     </message>
     <message id="settings-accounts-la-sync_automatically">
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="357"></location>
@@ -1524,13 +1524,13 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="141"></location>
         <source>Sync automatically</source>
         <extracomment>Switch which enables user to enable or disable "automatic synchronization" option</extracomment>
-        <translation>Sinkronisasi secara otomatis</translation>
+        <translation>Sinkronkan secara otomatis</translation>
     </message>
     <message id="settings-accounts-la-automatic_sync_enabled_description">
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="144"></location>
         <source>Sync account when contacts or calendar events on the device change</source>
         <extracomment>Switch providing setting to enable or disable "automatic synchronization" option</extracomment>
-        <translation>Sinkronisasi akun saat kontak atau peristiwa kalender di perangkat berubah</translation>
+        <translation>Sinkronkan akun saat kontak atau peristiwa kalender di perangkat berubah</translation>
     </message>
     <message id="components_accounts-ph-sip_username_placeholder">
         <location filename="../extensions/ui/sip-update.qml" line="99"></location>
@@ -1797,7 +1797,7 @@ Username</extracomment>
     <message id="settings-accounts-la-twitter_feed_auto_sync_title">
         <location filename="../extensions/ui/TwitterSettingsDisplay.qml" line="117"></location>
         <source>Sync tweets view automatically</source>
-        <translation>Sinkronisasi tampilan twit secara otomatis</translation>
+        <translation>Sinkronkan tampilan twit secara otomatis</translation>
     </message>
     <message id="settings-accounts-la-twitter_feed_auto_sync_description">
         <location filename="../extensions/ui/TwitterSettingsDisplay.qml" line="119"></location>

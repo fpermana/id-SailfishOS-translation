@@ -350,7 +350,7 @@ Message priority low</extracomment>
         <extracomment>Update account
 ----------
 Synchronise account menu item</extracomment>
-        <translation>Perbarui</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="jolla-email-la-updating_account">
         <location filename="../pages/AccountList.qml" line="107"></location>
@@ -456,7 +456,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/CombinedInbox.qml" line="76"></location>
         <source>Synchronize all</source>
         <extracomment>Synchronize inbox of all enabled accounts</extracomment>
-        <translation>Sinkronisasi semua</translation>
+        <translation>Sinkronkan semua</translation>
     </message>
     <message id="jolla-email-me-new_message">
         <location filename="../pages/CombinedInbox.qml" line="85"></location>
@@ -913,7 +913,7 @@ Synchronise account menu item</extracomment>
     <message id="jolla-email-la-synchronizing_account">
         <location filename="../pages/PendingInboxPage.qml" line="48"></location>
         <source>Synchronizing account</source>
-        <translation>Sinkronisasi akun</translation>
+        <translation>Menyinkronkan akun</translation>
     </message>
     <message id="jolla-email-la-sig-failed-retrieval">
         <location filename="../pages/PublicKeyAgent.qml" line="63"></location>
@@ -1138,7 +1138,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/utils.js" line="93"></location>
         <source>Synchronization failed</source>
         <extracomment>Synchronization failed error (Shown in app cover, small space)</extracomment>
-        <translation>Masalah dengan sinkronisasi</translation>
+        <translation>Sinkronisasi gagal</translation>
     </message>
     <message id="jolla-email-la-login_failed">
         <location filename="../pages/utils.js" line="97"></location>

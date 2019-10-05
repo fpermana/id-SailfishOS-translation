@@ -218,7 +218,7 @@
     <message id="contacts-la-prompt_import_from_android">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="73"></location>
         <source>Your contacts are probably automatically synchronized to your Google account. You can check this easily on your Android phone by going to 'Settings / Accounts / Google'.&lt;br&gt;&lt;br&gt;If the 'Sync contacts' option is selected, your contacts are available from your Google account and you can add this account to your device in 'Settings / Accounts' to sync your contacts.&lt;br&gt;&lt;br&gt;If 'Sync contacts' is not selected, you can select it then start a sync on your Android, then add your Google account to your device.&lt;br&gt;</source>
-        <translation>Kontak anda mungkin disinkronisasikan ke akun Google anda secara otomatis. Anda dapat memeriksa ini di perangkat Android anda dengan mengakses Pengaturan | Akun | Google.&lt;br&gt;&lt;br&gt;Jika opsi 'Sync Contact' dipilih, kontak anda akan tersedia dari akun Google anda dan anda dapat menambahkan akun ini ke perangkat anda di 'Pengaturan | Akun' untuk sinkronisasi kontak anda.&lt;br&gt;&lt;br&gt;. Apabila 'Sync Contact' tidak dipilih, anda dapat memilih kemudian mulai sinkronisasi pada Android anda dan tambahkan akun Google ke perangkat anda.&lt;br&gt;</translation>
+        <translation>Kontak anda mungkin disinkronkan ke akun Google anda secara otomatis. Anda dapat memeriksa ini di perangkat Android anda dengan mengakses Pengaturan | Akun | Google.&lt;br&gt;&lt;br&gt;Jika opsi 'Sync Contact' dipilih, kontak anda akan tersedia dari akun Google anda dan anda dapat menambahkan akun ini ke perangkat anda di 'Pengaturan | Akun' untuk sinkronkan kontak anda.&lt;br&gt;&lt;br&gt;. Apabila 'Sync Contact' tidak dipilih, anda dapat memilih kemudian mulai sinkronkan pada Android anda dan tambahkan akun Google ke perangkat anda.&lt;br&gt;</translation>
     </message>
     <message id="contacts-la-prompt_import_from_iphone">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="83"></location>
@@ -234,7 +234,7 @@
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="113"></location>
         <source>If your contacts are not synchronized to a Google account and you don't want to use synchronization, you can create a contacts file (.vcf) and transfer that to your device.</source>
         <extracomment>Prompt the user to import from Android without synchronization</extracomment>
-        <translation>Jika kontak anda tidak tersinkronisasi dengan akun Google dan anda tidak ingin menggunakan sinkronisasi, anda dapat membuat fail kontak (.vcf) dan kirim itu ke perangkat anda.</translation>
+        <translation>Jika kontak anda tidak tersinkron dengan akun Google dan anda tidak ingin menggunakan sinkronisasi, anda dapat membuat fail kontak (.vcf) dan kirim itu ke perangkat anda.</translation>
     </message>
     <message id="contacts-bt-import_learn_more">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="139"></location>
@@ -271,7 +271,7 @@
         <location filename="pages/wizard/ImportFromOther.qml" line="35"></location>
         <source>If you can't or don't want to use service synchronization from your old phone, you can either transfer your contacts via SIM card or by creating a contacts file and transferring that to your device. If you already have one or more vCard files on your device or a memory card, choose 'Import from file'.</source>
         <extracomment>Prompt the user to choose an import option (text should match import button label)</extracomment>
-        <translation>Jika Anda tidak dapat atau tidak ingin menggunakan sinkronisasi layanan dari telepon lama anda, anda dapat mentransfer kontak anda melalui kartu SIM atau dengan membuat fail kontak dan mentransfernya ke perangkat anda. Jika Anda sudah memiliki satu atau lebih fail vCard di perangkat atau kartu memori, pilih 'Impor dari fail'.</translation>
+        <translation>Jika anda tidak dapat atau tidak ingin menggunakan sinkronisasi layanan dari telepon lama anda, anda dapat mentransfer kontak anda melalui kartu SIM atau dengan membuat fail kontak dan mentransfernya ke perangkat anda. Jika anda sudah memiliki satu atau lebih fail vCard di perangkat atau kartu memori, pilih 'Impor dari fail'.</translation>
     </message>
     <message id="contacts-la-select_lumia">
         <location filename="pages/wizard/SelectLumia.qml" line="32"></location>

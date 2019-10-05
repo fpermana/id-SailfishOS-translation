@@ -43,7 +43,7 @@
         <location filename="AccountsListDelegate.qml" line="52"></location>
         <source>Sync</source>
         <extracomment>Syncs the data for this account</extracomment>
-        <translation>Sinkron</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="component_accounts-la-not_signed_in">
         <location filename="AccountsListDelegate.qml" line="123"></location>

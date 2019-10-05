@@ -7,19 +7,19 @@
         <location filename="pages/SyncEndpointDelegate.qml" line="22"></location>
         <source>Waiting to sync</source>
         <extracomment>Displayed when the sync operation is currently queued</extracomment>
-        <translation>Menunggu untuk sinkronisasi...</translation>
+        <translation>Menunggu untuk sinkronisasi</translation>
     </message>
     <message id="settings_sync-la-syncing">
         <location filename="pages/SyncEndpointDelegate.qml" line="27"></location>
         <source>Syncing</source>
         <extracomment>Displayed when the sync operation is in progress</extracomment>
-        <translation>Sinkronisasi...</translation>
+        <translation>Menyinkronkan</translation>
     </message>
     <message id="settings_sync-la-download_contacts">
         <location filename="pages/SyncEndpointDelegate.qml" line="31"></location>
         <source>Receiving contacts</source>
         <extracomment>Displayed when in the process of transferring contacts from another device</extracomment>
-        <translation>Menerima kontak...</translation>
+        <translation>Menerima kontak</translation>
     </message>
     <message id="settings_sync-la-last_sync_date">
         <location filename="pages/SyncEndpointDelegate.qml" line="37"></location>
@@ -55,7 +55,7 @@
         <location filename="pages/SyncEndpointList.qml" line="16"></location>
         <source>Sync</source>
         <extracomment>Triggers sync with the sync endpoint</extracomment>
-        <translation>Sinkronisasi</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="settings_sync-la-removing">
         <location filename="pages/SyncEndpointList.qml" line="72"></location>
@@ -82,7 +82,7 @@ Deleting this account in 5 seconds</extracomment>
     <message id="settings_sync-he-sync">
         <location filename="pages/SyncEndpointSettingsDialog.qml" line="97"></location>
         <source>Sync</source>
-        <translation>Sinkronisasi</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="settings_sync-sw-contacts">
         <location filename="pages/SyncEndpointSettingsDialog.qml" line="113"></location>
@@ -100,7 +100,7 @@ Deleting this account in 5 seconds</extracomment>
         <location filename="pages/SyncEndpointSettingsDialog.qml" line="141"></location>
         <source>Direction:</source>
         <extracomment>Determines the direction in which sync operations will be performed (two-way, upload only, or download only)</extracomment>
-        <translation>Arah</translation>
+        <translation>Arah:</translation>
     </message>
     <message id="settings_sync-la-twoway">
         <location filename="pages/SyncEndpointSettingsDialog.qml" line="146"></location>
@@ -124,7 +124,7 @@ Deleting this account in 5 seconds</extracomment>
         <location filename="pages/SyncSettingsPage.qml" line="112"></location>
         <source>Bluetooth sync</source>
         <extracomment>Heading of the Bluetooth Sync settings page</extracomment>
-        <translation>Sinkronisasi Bluetooth</translation>
+        <translation>Sinkronkan Bluetooth</translation>
     </message>
     <message id="settings_sync-me-add_device">
         <location filename="pages/SyncSettingsPage.qml" line="119"></location>

@@ -58,13 +58,13 @@
     <message id="components_accounts-la-activesync-credentials-failed">
         <location filename="../src/ui/SailfishEasBusyPage.qml" line="38"></location>
         <source>Go back to correct your credentials or skip now and add this account later.</source>
-        <translation>Kembali untuk membetulkan kredensial anda atau lewati sekarang dan tambah akun ini nanti</translation>
+        <translation>Kembali untuk membetulkan kredensial anda atau lewati sekarang dan tambah akun ini nanti.</translation>
     </message>
     <message id="components_accounts-he-activesync-provisioning-failed">
         <location filename="../src/ui/SailfishEasBusyPage.qml" line="43"></location>
         <source>The account could not be Added.</source>
         <extracomment>Heading displayed when server policies couldn't be obtained from server or couldn't be satisfied.</extracomment>
-        <translation>Akun tidak dapat ditambahkan</translation>
+        <translation>Akun tidak dapat ditambahkan.</translation>
     </message>
     <message id="components_accounts-la-activesync-provisioning-devlock-required">
         <location filename="../src/ui/SailfishEasBusyPage.qml" line="49"></location>
@@ -88,7 +88,7 @@
         <location filename="../src/ui/SailfishEasBusyPage.qml" line="62"></location>
         <source>There was an error contacting the server about the policies it requires.</source>
         <extracomment>Description displayed when the provisioning check fails for some unknown reason (such as the Internet being down)</extracomment>
-        <translation>Ada masalah hubungan ke peladen terkait kebijakan yang dibutuhkan</translation>
+        <translation>Ada masalah hubungan ke peladen terkait kebijakan yang dibutuhkan.</translation>
     </message>
     <message id="components_accounts-la-activesync-autodiscovery">
         <location filename="../src/ui/SailfishEasBusyPage.qml" line="79"></location>
@@ -154,7 +154,7 @@
     <message id="components_accounts_la-oof_synchronizing">
         <location filename="../src/ui/SailfishEasCommon.qml" line="125"></location>
         <source>Synchronizing...</source>
-        <translation>Sinkronisasi...</translation>
+        <translation>Menyinkronkan...</translation>
     </message>
     <message id="components_accounts-bt-oof_edit_settings">
         <location filename="../src/ui/SailfishEasCommon.qml" line="143"></location>
@@ -165,7 +165,7 @@
         <location filename="../src/ui/SailfishEasCommon.qml" line="155"></location>
         <source>Sync</source>
         <extracomment>Options for data to be synced with a remote server</extracomment>
-        <translation>Sinkron</translation>
+        <translation>Sinkronkan</translation>
     </message>
     <message id="components_accounts-la-activesync_calendar">
         <location filename="../src/ui/SailfishEasCommon.qml" line="163"></location>
@@ -212,13 +212,13 @@
         <location filename="../src/ui/SailfishEasCommon.qml" line="248"></location>
         <source>Content sync</source>
         <extracomment>Options for general content sync</extracomment>
-        <translation>Sinkronisasi konten</translation>
+        <translation>Sinkronkan konten</translation>
     </message>
     <message id="components_accounts-la-activesync_sync-old-emails">
         <location filename="../src/ui/SailfishEasCommon.qml" line="255"></location>
         <source>Sync old emails</source>
         <extracomment>Sync interval for old emails</extracomment>
-        <translation>Sinkronisasi surel lama</translation>
+        <translation>Sinkronkan surel lama</translation>
     </message>
     <message id="components_accounts-me-activesync_sync-1-day">
         <location filename="../src/ui/SailfishEasCommon.qml" line="265"></location>
@@ -256,7 +256,7 @@
         <location filename="../src/ui/SailfishEasCommon.qml" line="294"></location>
         <source>Sync old events</source>
         <extracomment>Sync interval for old events</extracomment>
-        <translation>Sinkronisasi peristiwa lama</translation>
+        <translation>Sinkronkan peristiwa lama</translation>
     </message>
     <message id="components_accounts-me-activesync_sync-3-months">
         <location filename="../src/ui/SailfishEasCommon.qml" line="310"></location>

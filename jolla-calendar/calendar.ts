@@ -259,7 +259,7 @@
     <message id="calendar-event-edit_recurring_confirmation">
         <location filename="pages/EventEditRecurringPage.qml" line="38"></location>
         <source>Do you want to edit this event or the series</source>
-        <translation>Apakah Anda ingin mengedit acara ini saja atau keseluruhan rangkaian?</translation>
+        <translation>Apakah Anda ingin mengedit acara ini saja atau keseluruhan rangkaian</translation>
     </message>
     <message id="calendar-event-edit_occurrence">
         <location filename="pages/EventEditRecurringPage.qml" line="50"></location>
