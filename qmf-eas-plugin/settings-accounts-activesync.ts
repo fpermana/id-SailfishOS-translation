@@ -25,7 +25,7 @@
         <location filename="../src/ui/sailfisheas.qml" line="187"></location>
         <source>Couldn't find the settings for your account. Please complete the settings in the fields below.</source>
         <extracomment>Information label displayed when settings for this account could not be discovered</extracomment>
-        <translation>Tidak dapat menemukan pengaturan untuk akun Anda. Silakan lengkapi pengaturan di kolom di bawah ini.</translation>
+        <translation>Tidak dapat menemukan pengaturan untuk akun anda. Silakan lengkapi pengaturan di kolom di bawah ini.</translation>
     </message>
     <message id="components_accounts-bt-activesync_less">
         <location filename="../src/ui/sailfisheas.qml" line="204"></location>

@@ -259,12 +259,12 @@
     <message id="calendar-event-edit_recurring_confirmation">
         <location filename="pages/EventEditRecurringPage.qml" line="38"></location>
         <source>Do you want to edit this event or the series</source>
-        <translation>Apakah Anda ingin mengedit acara ini saja atau keseluruhan rangkaian</translation>
+        <translation>Apakah Anda ingin mengedit peristiwa ini saja atau keseluruhan rangkaian</translation>
     </message>
     <message id="calendar-event-edit_occurrence">
         <location filename="pages/EventEditRecurringPage.qml" line="50"></location>
         <source>Edit this event</source>
-        <translation>Edit acara ini</translation>
+        <translation>Edit peristiwa ini</translation>
     </message>
     <message id="calendar-event-edit_all_occurrences">
         <location filename="pages/EventEditRecurringPage.qml" line="61"></location>
@@ -281,7 +281,7 @@
         <location filename="pages/EventViewPage.qml" line="53"></location>
         <source>calendarevent</source>
         <extracomment>Placeholder name for calendar event filename</extracomment>
-        <translation>Acara kalender</translation>
+        <translation>Peristiwa kalender</translation>
     </message>
     <message id="calendar-event-delete">
         <location filename="pages/EventViewPage.qml" line="94"></location>
@@ -336,7 +336,7 @@
     <message id="calendar-me-new_event">
         <location filename="pages/MonthPage.qml" line="72"></location>
         <source>New event</source>
-        <translation>Acara baru</translation>
+        <translation>Peristiwa baru</translation>
     </message>
     <message id="calendar-me-schedule_is_free">
         <location filename="pages/MonthPage.qml" line="195"></location>

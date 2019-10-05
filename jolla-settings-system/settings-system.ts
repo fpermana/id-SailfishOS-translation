@@ -675,7 +675,7 @@
         <location filename="../events/events.qml" line="27"></location>
         <source>No events view widgets are available for your device</source>
         <extracomment>Placeholder label which is shown when there are no widgets which can be installed</extracomment>
-        <translation>Tidak ada widget tampilan peristiwa yang tersedia untuk perangkat Anda</translation>
+        <translation>Tidak ada widget tampilan peristiwa yang tersedia untuk perangkat anda</translation>
     </message>
     <message id="settings_events-la-install_from_store">
         <location filename="../events/events.qml" line="35"></location>
@@ -784,7 +784,7 @@
     <message id="settings_location-la-location_switch_description">
         <location filename="../gps/location.qml" line="72"></location>
         <source>Allow applications to pinpoint your location. This feature consumes some battery power.</source>
-        <translation>Izinkan aplikasi menentukan lokasi Anda. Fitur ini mengonsumsi daya baterai.</translation>
+        <translation>Izinkan aplikasi menentukan lokasi anda. Fitur ini mengonsumsi daya baterai.</translation>
     </message>
     <message id="settings_location-la-simple_settings_section">
         <location filename="../gps/location.qml" line="86"></location>
@@ -1378,7 +1378,7 @@
         <location filename="../plugin/MandatoryDeviceLockInputPage.qml" line="26"></location>
         <source>Set your security code</source>
         <extracomment>Initial setup of security code</extracomment>
-        <translation>Tetapkan kode keamanan Anda</translation>
+        <translation>Tetapkan kode keamanan anda</translation>
     </message>
     <message id="settings_pin-bt-enter_pin">
         <location filename="../plugin/PinInput.qml" line="29"></location>

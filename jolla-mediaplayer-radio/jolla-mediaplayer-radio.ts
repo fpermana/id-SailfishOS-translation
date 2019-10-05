@@ -44,7 +44,7 @@
         <location filename="../fm/fmradio.qml" line="301"></location>
         <source>Plug in your earphones. They are used as radio antenna</source>
         <extracomment>Placeholder text on radio main page</extracomment>
-        <translation>Pasang earphone Anda. Ini digunakan sebagai antena radio.</translation>
+        <translation>Pasang earphone anda. Ini digunakan sebagai antena radio</translation>
     </message>
     <message id="jolla-mediaplayer-radio-channel_name">
         <location filename="../fm/fmradio.qml" line="547"></location>
