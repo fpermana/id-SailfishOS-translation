@@ -12,17 +12,17 @@
     <message id="apkd_interaction_service-he-install_system_apks_description">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="29"></location>
         <source>Privileged software detected. Installation poses potential security threats to your device and data. Are you sure you want to continue?</source>
-        <translation>Aplikasi khusus terdeteksi. Instalasi menimbulkan potensi ancaman keamanan pada perangkat dan data Anda. Apakah anda yakin ingin melanjutkan?</translation>
+        <translation>Perangkat lunak khusus terdeteksi. Instalasi menimbulkan potensi ancaman keamanan pada perangkat dan data anda. Apakah anda yakin ingin melanjutkan?</translation>
     </message>
     <message id="apkd_interaction_service-system_apk_installation_not_allowed">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="57"></location>
         <source>Software installation prevented by Sailfish Device Manager</source>
-        <translation>Instalasi aplikasi dicegah oleh Sailfish Device Manager</translation>
+        <translation>Instalasi perangkat lunak dicegah oleh Pengelola Perangkat Sailfish</translation>
     </message>
     <message id="apkd_interaction_service-system_apk_sideloading_not_allowed">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="60"></location>
         <source>Installing untrusted software disabled</source>
-        <translation>Instalasi aplikasi tidak terpercaya dinonaktifkan</translation>
+        <translation>Instalasi perangkat lunak tidak terpercaya dinonaktifkan</translation>
     </message>
     <message id="apkd_interaction_service-bu-decline_install_system_apks">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="69"></location>
@@ -154,12 +154,12 @@
     <message id="android_settings-bt-allow_contact_access">
         <location filename="../settings/runtime/android.qml" line="170"></location>
         <source>Allow Android™ apps to access your contacts</source>
-        <translation>Izinkan aplikasi Android ™ mengakses kontak anda</translation>
+        <translation>Izinkan aplikasi Android™ mengakses kontak anda</translation>
     </message>
     <message id="android_settings-la-contact_access_description">
         <location filename="../settings/runtime/android.qml" line="172"></location>
         <source>When this is off, Android™ apps relying on using contacts won't work as they should</source>
-        <translation>Ketika ini dinonaktifkan, maka aplikasi Android ™ yang mengandalkan penggunaan kontak tidak akan berfungsi sebagaimana mestinya</translation>
+        <translation>Ketika ini dinonaktifkan, maka aplikasi Android™ yang mengandalkan penggunaan kontak tidak akan berfungsi sebagaimana mestinya</translation>
     </message>
     <message id="android_settings-la-actions_header">
         <location filename="../settings/runtime/android.qml" line="199"></location>
@@ -185,17 +185,17 @@
         <location filename="../src/apkdaemon.cpp" line="247"></location>
         <source>Installing APK disabled by the Sailfish Device Manager.</source>
         <extracomment>Notification text shown when the user attempts to install an apk and policy doesn't allow</extracomment>
-        <translation>Instalasi APK dinonaktifkan oleh Sailfish Device Manager.</translation>
+        <translation>Instalasi APK dinonaktifkan oleh Pengelola Perangkat Sailfish.</translation>
     </message>
     <message id="apkd-failed_to_install_non_apk_file">
         <location filename="../src/apkdaemon.cpp" line="277"></location>
         <source>Failed to install a file that is not an Android™ application package.</source>
-        <translation>Gagal memasang fail yang bukan paket aplikasi Android ™.</translation>
+        <translation>Gagal memasang fail yang bukan paket aplikasi Android™.</translation>
     </message>
     <message id="apkd-failed_to_open_android_application_for_installing">
         <location filename="../src/apkdaemon.cpp" line="285"></location>
         <source>Failed to open %1 Android™ application package for installing.</source>
-        <translation>Gagal membuka paket aplikasi Android ™ 1% untuk instalasi.</translation>
+        <translation>Gagal membuka paket aplikasi Android™ %1 untuk instalasi.</translation>
     </message>
     <message id="apkd-application">
         <location filename="../src/apkdaemon.cpp" line="298"></location>
@@ -218,7 +218,7 @@
         <location filename="../src/apkdaemon.cpp" line="480"></location>
         <source>Uninstalling APK disabled by the Sailfish Device Manager.</source>
         <extracomment>Notification text shown when the user attempts to install an apk and policy doesn't allow</extracomment>
-        <translation>Pencopotan APK dinonaktifkan oleh Sailfish Device Manage.</translation>
+        <translation>Pencopotan APK dinonaktifkan oleh Pengelola Perangkat Sailfish.</translation>
     </message>
     <message id="apkd-no-installed_multiple_include_n" numerus="yes">
         <location filename="../src/apkdaemon.cpp" line="866"></location>

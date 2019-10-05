@@ -13,7 +13,7 @@
         <location filename="../components/AttachmentDownloadPage.qml" line="56"></location>
         <source>The attachment you are forwarding has not been downloaded yet.</source>
         <extracomment>When singular "The attachment you are forwarding has not been downloaded yet", plural "Some of the attachments you are forwarding have not been downloaded yet"</extracomment>
-        <translation><numerusform>Lampiran dari email yang kamu kirim belum diunduh</numerusform>
+        <translation><numerusform>Lampiran yang anda teruskan belum diunduh.</numerusform>
         </translation></message>
     <message id="jolla-email-la-download_attachments_forward">
         <location filename="../components/AttachmentDownloadPage.qml" line="72"></location>
@@ -121,7 +121,7 @@
         <location filename="../components/EmailComposer.qml" line="434"></location>
         <source>New mail</source>
         <extracomment>New mail page title</extracomment>
-        <translation>Email baru</translation>
+        <translation>Surat baru</translation>
     </message>
     <message id="jolla-components_email-la-to">
         <location filename="../components/EmailComposer.qml" line="455"></location>
@@ -145,7 +145,7 @@
         <location filename="../components/EmailComposer.qml" line="518"></location>
         <source>From:</source>
         <extracomment>From label</extracomment>
-        <translation>Dari</translation>
+        <translation>Dari:</translation>
     </message>
     <message id="jolla-email-la-priority_Normal">
         <location filename="../components/EmailComposer.qml" line="570"></location>
@@ -200,7 +200,7 @@ Message priority low</extracomment>
     <message id="jolla-components_email-la-attachments_size_exceed_warning">
         <location filename="../components/EmailComposer.qml" line="695"></location>
         <source>Total file size exceeds %1. Consider removing some attachments.</source>
-        <translation>ukuran file melebihi %1. hapus sebagian lampiran.</translation>
+        <translation>Total ukuran fail melebihi %1. Pertimbangkan untuk menghapus beberapa lampiran.</translation>
     </message>
     <message id="jolla-components_email-la-subject">
         <location filename="../components/EmailComposer.qml" line="733"></location>
@@ -222,7 +222,7 @@ Message priority low</extracomment>
     <message id="jolla-components_email-he-attach-files">
         <location filename="../components/EmailComposer.qml" line="803"></location>
         <source>Attach files</source>
-        <translation>Lampirkan berkas</translation>
+        <translation>Lampirkan fail</translation>
     </message>
     <message id="jolla-components_email-la-attchements_summary" numerus="yes">
         <location filename="../components/EmailComposer.qml" line="826"></location>
@@ -289,7 +289,7 @@ Message priority low</extracomment>
         <location filename="../cover/MainViewCover.qml" line="32"></location>
         <source>Unread&lt;br/&gt;email(s)</source>
         <extracomment>Unread label. Code requires exact line break tag "&lt;br/&gt;".</extracomment>
-        <translation><numerusform>Email&lt;br/&gt;belum dibaca</numerusform>
+        <translation><numerusform>Surel&lt;br/&gt;belum dibaca</numerusform>
         </translation></message>
     <message id="jolla-email-la-updating">
         <location filename="../cover/MainViewCover.qml" line="60"></location>
@@ -386,7 +386,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/AttachmentDelegate.qml" line="152"></location>
         <source>Failed to save file</source>
         <extracomment>Attachment download state - Failed to save file</extracomment>
-        <translation>Gagal menyimpan berkas</translation>
+        <translation>Gagal menyimpan fail</translation>
     </message>
     <message id="jolla-email-la-attachment_download_canceled">
         <location filename="../pages/AttachmentDelegate.qml" line="156"></location>
@@ -439,7 +439,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/CalendarDelegate.qml" line="134"></location>
         <source>Failed to save file</source>
         <extracomment>Calendar invitation - Failed to save file</extracomment>
-        <translation>Gagal menyimpan berkas</translation>
+        <translation>Gagal menyimpan fail</translation>
     </message>
     <message id="jolla-email-me-deleting-mail">
         <location filename="../pages/CombinedInbox.qml" line="43"></location>
@@ -463,14 +463,14 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageListView.qml" line="270"></location>
         <source>New Message</source>
         <extracomment>New message menu item</extracomment>
-        <translation>Email baru</translation>
+        <translation>Pesan baru</translation>
     </message>
     <message id="email-he-email">
         <location filename="../pages/CombinedInbox.qml" line="98"></location>
         <location filename="../pages/NoAccountsPage.qml" line="29"></location>
         <source>Mail</source>
         <extracomment>Email page header</extracomment>
-        <translation>Email</translation>
+        <translation>Surat</translation>
     </message>
     <message id="email-la_unread_messages_in_inboxes">
         <location filename="../pages/CombinedInbox.qml" line="111"></location>
@@ -560,7 +560,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageInfo.qml" line="96"></location>
         <source>Reply to:</source>
         <extracomment>Reply to address</extracomment>
-        <translation>Balas ke</translation>
+        <translation>Balas ke:</translation>
     </message>
     <message id="jolla-email-la-cal-mandatory_info">
         <location filename="../pages/MessageInfo.qml" line="106"></location>
@@ -572,7 +572,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageInfo.qml" line="110"></location>
         <source>To:</source>
         <extracomment>'To: ' recipients label</extracomment>
-        <translation>Ke</translation>
+        <translation>Ke:</translation>
     </message>
     <message id="jolla-email-la-cal-optional_info">
         <location filename="../pages/MessageInfo.qml" line="122"></location>
@@ -584,7 +584,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageInfo.qml" line="126"></location>
         <source>Cc:</source>
         <extracomment>'Cc: ' recipients label</extracomment>
-        <translation>Cc</translation>
+        <translation>Cc:</translation>
     </message>
     <message id="jolla-email-la-importance">
         <location filename="../pages/MessageInfo.qml" line="135"></location>
@@ -662,13 +662,13 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageInfo.qml" line="217"></location>
         <source>Account:</source>
         <extracomment>'Account: ' label</extracomment>
-        <translation>Akun</translation>
+        <translation>Akun:</translation>
     </message>
     <message id="jolla-email-la-message_size">
         <location filename="../pages/MessageInfo.qml" line="224"></location>
         <source>Size:</source>
         <extracomment>Message 'Size: ' label</extracomment>
-        <translation>Ukuran</translation>
+        <translation>Ukuran:</translation>
     </message>
     <message id="jolla-email-la-no_recipient">
         <location filename="../pages/MessageItem.qml" line="95"></location>
@@ -768,13 +768,13 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageListView.qml" line="163"></location>
         <source>Contains attachments</source>
         <extracomment>Contains attachments section header</extracomment>
-        <translation>Email dengan lampiran</translation>
+        <translation>Berisi lampiran</translation>
     </message>
     <message id="jolla-email-la-no_attachments">
         <location filename="../pages/MessageListView.qml" line="167"></location>
         <source>No attachments</source>
         <extracomment>No attachments section header</extracomment>
-        <translation>Email tanpa lampiran</translation>
+        <translation>Tanpa lampiran</translation>
     </message>
     <message id="jolla-email-me-sort_by">
         <location filename="../pages/MessageListView.qml" line="211"></location>
@@ -797,13 +797,13 @@ Synchronise account menu item</extracomment>
     <message id="jolla-email-me-get_more_mails">
         <location filename="../pages/MessageListView.qml" line="283"></location>
         <source>Get more mails</source>
-        <translation>Dapatkan lebih banyak email</translation>
+        <translation>Dapatkan lebih banyak surat</translation>
     </message>
     <message id="jolla-email-la-empty_list">
         <location filename="../pages/MessageListView.qml" line="304"></location>
         <source>No emails</source>
         <extracomment>Empty message list placeholder label</extracomment>
-        <translation>Tidak ada email</translation>
+        <translation>Tidak ada surel</translation>
     </message>
     <message id="jolla-email-me-deleted-mails" numerus="yes">
         <location filename="../pages/MessageRemorsePopup.qml" line="17"></location>
@@ -1256,7 +1256,7 @@ Synchronise account menu item</extracomment>
         <location filename="../settings/email.qml" line="30"></location>
         <source>Mail</source>
         <extracomment>Email settings page header</extracomment>
-        <translation>Email</translation>
+        <translation>Surat</translation>
     </message>
     <message id="settings_email-la-default_download_images">
         <location filename="../settings/email.qml" line="35"></location>
@@ -1303,7 +1303,7 @@ Synchronise account menu item</extracomment>
     <message id="mail-ap-name">
         <location filename="email.cpp" line="71"></location>
         <source>Mail</source>
-        <translation>Email</translation>
+        <translation>Surat</translation>
     </message>
 </context>
 </TS>

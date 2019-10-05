@@ -7,7 +7,7 @@
         <location filename="MdmTermsOfUse.qml" line="18"></location>
         <source>%1 Device Manager</source>
         <extracomment>%1 is operating system name without OS suffix</extracomment>
-        <translation>%1 Device Manager</translation>
+        <translation>Pengelola Perangkat %1</translation>
     </message>
     <message id="sailfish-mdm-la-mdm_installed">
         <location filename="MdmTermsOfUse.qml" line="21"></location>

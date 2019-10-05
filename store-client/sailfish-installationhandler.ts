@@ -19,7 +19,7 @@
         <location filename="installationhandler.cpp" line="51"></location>
         <source>Installing untrusted software disabled.</source>
         <extracomment>Notification text shown when the user attempts to sideload a package while sideloading untrusted software is disabled.</extracomment>
-        <translation>Pemasangan aplikasi tidak terpercaya dinonaktifkan.</translation>
+        <translation>Pemasangan perangkat lunak tidak terpercaya dinonaktifkan.</translation>
     </message>
     <message id="installationhandler-application_installation_disallowed">
         <location filename="installationhandler.cpp" line="63"></location>

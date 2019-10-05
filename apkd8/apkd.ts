@@ -12,17 +12,17 @@
     <message id="apkd_interaction_service-he-install_system_apks_description">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="29"></location>
         <source>Privileged software detected. Installation poses potential security threats to your device and data. Are you sure you want to continue?</source>
-        <translation>Aplikasi khusus terdeteksi. Instalasi menimbulkan potensi ancaman keamanan pada perangkat dan data anda. Apakah anda yakin ingin melanjutkan?</translation>
+        <translation>Perangkat lunak khusus terdeteksi. Instalasi menimbulkan potensi ancaman keamanan pada perangkat dan data anda. Apakah anda yakin ingin melanjutkan?</translation>
     </message>
     <message id="apkd_interaction_service-system_apk_installation_not_allowed">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="57"></location>
         <source>Software installation prevented by Sailfish Device Manager</source>
-        <translation>Pemasangan aplikasi dicegah oleh Sailfish Device Manager</translation>
+        <translation>Pemasangan perangkat lunak dicegah oleh Pengelola Perangkat Sailfish</translation>
     </message>
     <message id="apkd_interaction_service-system_apk_sideloading_not_allowed">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="60"></location>
         <source>Installing untrusted software disabled</source>
-        <translation>Pemasangan aplikasi tidak terpercaya dinonaktifkan</translation>
+        <translation>Pemasangan perangkat lunak tidak terpercaya dinonaktifkan</translation>
     </message>
     <message id="apkd_interaction_service-bu-decline_install_system_apks">
         <location filename="../interactionservice/ApkInstallationConfirmationDialog.qml" line="69"></location>
@@ -99,12 +99,12 @@
     <message id="apkd_settings-la-open-alien-settings-description">
         <location filename="../settings/application/apkConfigurationPage.qml" line="156"></location>
         <source>Open the Android™ Settings page for this app. Adjust permissions, notification settings from within Android™.</source>
-        <translation>Buka halaman Pengaturan Android ™ untuk aplikasi ini. Sesuaikan izin, pengaturan notifikasi dari dalam Android ™.</translation>
+        <translation>Buka halaman Pengaturan Android™ untuk aplikasi ini. Sesuaikan izin, pengaturan notifikasi dari dalam Android™.</translation>
     </message>
     <message id="apkd_settings-open-alien-settings">
         <location filename="../settings/application/apkConfigurationPage.qml" line="166"></location>
         <source>Open Android™ Settings</source>
-        <translation>Buka Pengaturan Android ™</translation>
+        <translation>Buka Pengaturan Android™</translation>
     </message>
     <message id="apkd_settings-la-package_clear_cache_description">
         <location filename="../settings/application/apkConfigurationPage.qml" line="187"></location>
@@ -225,19 +225,19 @@
         <location filename="../src/apkdaemon.cpp" line="208"></location>
         <source>Installing APK disabled by the Sailfish Device Manager.</source>
         <extracomment>Notification text shown when the user attempts to install an apk and policy doesn't allow</extracomment>
-        <translation>Pemasangan APK dinonaktifkan oleh Sailfish Device Manager.</translation>
+        <translation>Pemasangan APK dinonaktifkan oleh Pengelola Perangkat Sailfish.</translation>
     </message>
     <message id="apkd-app_uninstallation_disallowed">
         <location filename="../src/apkdaemon.cpp" line="360"></location>
         <source>Uninstalling APK disabled by the Sailfish Device Manager.</source>
         <extracomment>Notification text shown when the user attempts to install an apk and policy doesn't allow</extracomment>
-        <translation>Pencopotan APK dinonaktifkan oleh Sailfish Device Manager.</translation>
+        <translation>Pencopotan APK dinonaktifkan oleh Pengelola Perangkat Sailfish.</translation>
     </message>
     <message id="apkd-launch_alien_to_start_android_app">
         <location filename="../src/apkdaemon.cpp" line="552"></location>
         <source>Starting Android™ App Support to launch %1.</source>
         <extracomment>Notification text shown when the user attempts to start an apk but Android™ App Support hasn't been started yet.</extracomment>
-        <translation>Memulai Dukungan Aplikasi Android ™ untuk meluncurkan% 1.</translation>
+        <translation>Memulai Dukungan Aplikasi Android™ untuk meluncurkan %1.</translation>
     </message>
     <message id="apkd-ap-name">
         <location filename="../src/apkdaemon.cpp" line="604"></location>

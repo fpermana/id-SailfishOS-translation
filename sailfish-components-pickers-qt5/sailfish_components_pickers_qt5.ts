@@ -39,7 +39,7 @@
         <location filename="MultiDownloadPickerDialog.qml" line="25"></location>
         <source>No downloaded files</source>
         <extracomment>Empty state text if no downloads available. This should be positive and inspiring for the user.</extracomment>
-        <translation>Tidak ada file unduhan</translation>
+        <translation>Tidak ada fail unduhan</translation>
     </message>
     <message id="components_pickers-he-select_location">
         <location filename="FilePickerPage.qml" line="32"></location>

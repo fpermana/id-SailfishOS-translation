@@ -244,7 +244,7 @@
     <message id="settings_sailfishos-li-custom_domain_ssu_registration_required">
         <location filename="UpgradePlaceholder.qml" line="58"></location>
         <source>Device in '%0' domain. Updating requires registration in Settings | System | Developer tools</source>
-        <translation>Perangkat dalam domain '% 0'. Pembaruan memerlukan pendaftaran di Pengaturan | Sistem | Alat pengembang</translation>
+        <translation>Perangkat dalam domain '%0'. Pembaruan memerlukan pendaftaran di Pengaturan | Sistem | Alat pengembang</translation>
     </message>
     <message id="settings_sailfishos-la-settings_accounts">
         <location filename="UpgradePlaceholder.qml" line="61"></location>

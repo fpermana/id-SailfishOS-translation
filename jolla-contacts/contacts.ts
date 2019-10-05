@@ -31,7 +31,7 @@
         <location filename="pages/ContactImportWizardPage.qml" line="112"></location>
         <source>You have no contacts yet</source>
         <extracomment>No available contacts</extracomment>
-        <translation>Anda belum memiliki kontak.</translation>
+        <translation>Anda belum memiliki kontak</translation>
     </message>
     <message id="contacts-la-n_contacts_available" numerus="yes">
         <location filename="pages/ContactImportWizardPage.qml" line="115"></location>
@@ -43,13 +43,13 @@
         <location filename="pages/ContactImportWizardPage.qml" line="128"></location>
         <source>Choose 'Import' if you would like to import contacts using Accounts, from Bluetooth or other sources.</source>
         <extracomment>Prompt the user to choose an import option (text should match accept text label)</extracomment>
-        <translation>Pilih 'impor' jika anda ingin impor data kontak, melalui Bluetooth atau sumber lainnya,</translation>
+        <translation>Pilih 'Impor' jika anda ingin mengimpor kontak menggunakan Akun, dari Bluetooth atau sumber lainnya.</translation>
     </message>
     <message id="contacts-la-import_instructions">
         <location filename="pages/ContactImportWizardPage.qml" line="139"></location>
         <source>You can always import contacts from Settings / App settings / People.</source>
         <extracomment>Tells the user where to access import functionality</extracomment>
-        <translation>Anda selalu dapat mengimpor data melalui Pengaturan | Apps | People.</translation>
+        <translation>Anda selalu dapat mengimpor data melalui Pengaturan | Pengaturan Aplikasi | Orang.</translation>
     </message>
     <message id="contacts-la-import_from_services">
         <location filename="pages/ContactImportWizardPage.qml" line="187"></location>
@@ -61,7 +61,7 @@
         <location filename="pages/ContactImportWizardPage.qml" line="198"></location>
         <source>Do you have a Google or Exchange account? If you don't have any suitable account, choose 'Import without services'.</source>
         <extracomment>Prompt the user to choose an import account (text should match import option label)</extracomment>
-        <translation>Anda memiliki akun Google atau Exchange? Jika tidak, maka pilih impor tanpa layanan</translation>
+        <translation>Anda memiliki akun Google atau Exchange? Jika tidak, maka pilih 'Impor tanpa layanan'.</translation>
     </message>
     <message id="contacts-la-google_account">
         <location filename="pages/ContactImportWizardPage.qml" line="212"></location>
@@ -126,7 +126,7 @@
     <message id="components_contacts-la-removing_multiple_contacts" numerus="yes">
         <location filename="pages/ContactsListPage.qml" line="121"></location>
         <source>Deleting %n contacts</source>
-        <translation><numerusform>Menghapus kontak</numerusform>
+        <translation><numerusform>Menghapus %n kontak</numerusform>
         </translation></message>
     <message id="contacts-la-removing_contacts">
         <location filename="pages/RemoveAllPage.qml" line="24"></location>
@@ -138,17 +138,17 @@
         <location filename="pages/RemoveAllPage.qml" line="28"></location>
         <source>Unable to remove contacts from device.</source>
         <extracomment>Error while removing contacts from device</extracomment>
-        <translation>Tidak dapat menghapus kontak dari perangkat</translation>
+        <translation>Tidak dapat menghapus kontak dari perangkat.</translation>
     </message>
     <message id="contacts-la-removed_n_contacts" numerus="yes">
         <location filename="pages/RemoveAllPage.qml" line="31"></location>
         <source>Removed %n contact(s).</source>
-        <translation><numerusform>%n kontak dihapus</numerusform>
+        <translation><numerusform>%n kontak dihapus.</numerusform>
         </translation></message>
     <message id="contacts-la-no_contacts_removed">
         <location filename="pages/RemoveAllPage.qml" line="34"></location>
         <source>No contacts removed.</source>
-        <translation>Tidak ada kontak dihapus</translation>
+        <translation>Tidak ada kontak dihapus.</translation>
     </message>
     <message id="contacts-he-remove_device_contacts">
         <location filename="pages/RemoveAllPage.qml" line="54"></location>
@@ -208,7 +208,7 @@
     <message id="contacts-la-prompt_import_from_wp75">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="61"></location>
         <source>Install Contacts share application from Nokia marketplace to Lumia.&lt;br&gt;&lt;br&gt;Pair both devices using Bluetooth.&lt;br&gt;&lt;br&gt;Transfer contacts to your device using Contacts share.</source>
-        <translation>Pasang aplikasi Berbagi Kontak ke Lumia.&lt;br&gt;&lt;br&gt;Pasangkan kedua perangkat melalui Bluetooth.&lt;br&gt;&lt;br&gt;Kirim kontak ke perangkat anda menggunakan Berbagi Kontak</translation>
+        <translation>Pasang aplikasi Berbagi kontak ke Lumia.&lt;br&gt;&lt;br&gt;Pasangkan kedua perangkat melalui Bluetooth.&lt;br&gt;&lt;br&gt;Kirim kontak ke perangkat anda menggunakan Berbagi kontak.</translation>
     </message>
     <message id="contacts-la-prompt_import_from_wp8">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="66"></location>
@@ -218,7 +218,7 @@
     <message id="contacts-la-prompt_import_from_android">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="73"></location>
         <source>Your contacts are probably automatically synchronized to your Google account. You can check this easily on your Android phone by going to 'Settings / Accounts / Google'.&lt;br&gt;&lt;br&gt;If the 'Sync contacts' option is selected, your contacts are available from your Google account and you can add this account to your device in 'Settings / Accounts' to sync your contacts.&lt;br&gt;&lt;br&gt;If 'Sync contacts' is not selected, you can select it then start a sync on your Android, then add your Google account to your device.&lt;br&gt;</source>
-        <translation>Kontak anda mungkin disinkronisasikan ke akun Google anda secara otomatis. Anda dapat memeriksa ini di perangkat Android anda dengan mengakses Pengaturan | Akun | Google.&lt;br&gt;&lt;br&gt;Jika opsi 'Sync Contact' dipilih, kontak anda akan tersedia dari akun Google anda dan anda dapat menambahkan akun ini ke perangkat anda di 'Pengaturan | Akun' untuk sinkronisasi kontak anda.&lt;br&gt;&lt;br&gt;. Apabila 'Sync Contact' tidak dipilih, anda dapat memilih kemudian mulai sinkronisasi pada Android anda dan tambahkan akun Google ke perangkat anda.</translation>
+        <translation>Kontak anda mungkin disinkronisasikan ke akun Google anda secara otomatis. Anda dapat memeriksa ini di perangkat Android anda dengan mengakses Pengaturan | Akun | Google.&lt;br&gt;&lt;br&gt;Jika opsi 'Sync Contact' dipilih, kontak anda akan tersedia dari akun Google anda dan anda dapat menambahkan akun ini ke perangkat anda di 'Pengaturan | Akun' untuk sinkronisasi kontak anda.&lt;br&gt;&lt;br&gt;. Apabila 'Sync Contact' tidak dipilih, anda dapat memilih kemudian mulai sinkronisasi pada Android anda dan tambahkan akun Google ke perangkat anda.&lt;br&gt;</translation>
     </message>
     <message id="contacts-la-prompt_import_from_iphone">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="83"></location>
@@ -234,13 +234,13 @@
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="113"></location>
         <source>If your contacts are not synchronized to a Google account and you don't want to use synchronization, you can create a contacts file (.vcf) and transfer that to your device.</source>
         <extracomment>Prompt the user to import from Android without synchronization</extracomment>
-        <translation>Jika kontak anda tidak tersinkronisasi dengan akun Google dan anda tidak ingin menggunakan siknronisasi, anda dapat membuat fail kontak (.vcf) dan kirim itu ke perangkat anda</translation>
+        <translation>Jika kontak anda tidak tersinkronisasi dengan akun Google dan anda tidak ingin menggunakan sinkronisasi, anda dapat membuat fail kontak (.vcf) dan kirim itu ke perangkat anda.</translation>
     </message>
     <message id="contacts-bt-import_learn_more">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="139"></location>
         <location filename="pages/wizard/ImportFromOther.qml" line="47"></location>
         <source>Learn More</source>
-        <translation>Pelajari lebih lanjut</translation>
+        <translation>Pelajari Lebih lanjut</translation>
     </message>
     <message id="contacts-bt-sign_in_goole">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="153"></location>
@@ -253,7 +253,7 @@
         <location filename="pages/wizard/ImportFromOther.qml" line="61"></location>
         <source>Import from file</source>
         <extracomment>Import from file</extracomment>
-        <translation>Impor dari berkas</translation>
+        <translation>Impor dari fail</translation>
     </message>
     <message id="contacts-bt-bluetooth_pairing">
         <location filename="pages/wizard/ImportFromDeviceType.qml" line="175"></location>
@@ -271,7 +271,7 @@
         <location filename="pages/wizard/ImportFromOther.qml" line="35"></location>
         <source>If you can't or don't want to use service synchronization from your old phone, you can either transfer your contacts via SIM card or by creating a contacts file and transferring that to your device. If you already have one or more vCard files on your device or a memory card, choose 'Import from file'.</source>
         <extracomment>Prompt the user to choose an import option (text should match import button label)</extracomment>
-        <translation>Jika Anda tidak dapat atau tidak ingin menggunakan sinkronisasi layanan dari telepon lama anda, anda dapat mentransfer kontak anda melalui kartu SIM atau dengan membuat file kontak dan mentransfernya ke perangkat anda. Jika Anda sudah memiliki satu atau lebih fail vCard di perangkat atau kartu memori, pilih 'Impor dari fail'.</translation>
+        <translation>Jika Anda tidak dapat atau tidak ingin menggunakan sinkronisasi layanan dari telepon lama anda, anda dapat mentransfer kontak anda melalui kartu SIM atau dengan membuat fail kontak dan mentransfernya ke perangkat anda. Jika Anda sudah memiliki satu atau lebih fail vCard di perangkat atau kartu memori, pilih 'Impor dari fail'.</translation>
     </message>
     <message id="contacts-la-select_lumia">
         <location filename="pages/wizard/SelectLumia.qml" line="32"></location>
@@ -283,7 +283,7 @@
         <location filename="pages/wizard/SelectLumia.qml" line="43"></location>
         <source>Choose 'Other Lumia' if you have a Windows Phone 8 device</source>
         <extracomment>Selection advice</extracomment>
-        <translation>Pilih Lumia lainnya jika anda memiliki perangkat Windows Phone 8.</translation>
+        <translation>Pilih Lumia lainnya jika anda memiliki perangkat Windows Phone 8</translation>
     </message>
     <message id="contacts-la-lumia_510">
         <location filename="pages/wizard/SelectLumia.qml" line="54"></location>
@@ -318,18 +318,18 @@
     <message id="contacts_settings-he-contact_file">
         <location filename="settings/ContactFilePickerPage.qml" line="25"></location>
         <source>Contact file</source>
-        <translation>Berkas kontak</translation>
+        <translation>Fail kontak</translation>
     </message>
     <message id="contacts_settings-la-no_contact_files_found">
         <location filename="settings/ContactFilePickerPage.qml" line="61"></location>
         <source>No contact files found</source>
-        <translation>Tidak ditemukan berkas kontak</translation>
+        <translation>Tidak ditemukan fail kontak</translation>
     </message>
     <message id="contacts_settings-la-copy_contact_files_to_device">
         <location filename="settings/ContactFilePickerPage.qml" line="65"></location>
         <source>Copy some vcard files to device</source>
         <extracomment>Shown when user does not have any vcard files on the device</extracomment>
-        <translation>Salin beberapa berkas vCard ke perangkat</translation>
+        <translation>Salin beberapa fail vCard ke perangkat</translation>
     </message>
     <message id="contacts_settings-he-people">
         <location filename="settings/contactssettings.qml" line="25"></location>
@@ -393,7 +393,7 @@
         <location filename="settings/contactssettings.qml" line="138"></location>
         <source>From contact file</source>
         <extracomment>Can be clicked to import contacts from a contact file</extracomment>
-        <translation>Dari berkas kontak</translation>
+        <translation>Dari fail kontak</translation>
     </message>
     <message id="contacts_settings-me-remove_all_contacts">
         <location filename="settings/contactssettings.qml" line="157"></location>

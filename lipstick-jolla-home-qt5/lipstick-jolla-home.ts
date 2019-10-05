@@ -43,7 +43,7 @@
         <location filename="../bluetooth/BluetoothPairing.qml" line="90"></location>
         <source>Pairing authentication failed. The passkeys did not match.</source>
         <extracomment>Shown when a bluetooth pairing was attempted but the passkeys did not match</extracomment>
-        <translation>Otentikasi pemasangan gagal. Kata kunci tidak cocok.</translation>
+        <translation>Autentikasi pemasangan gagal. Kata kunci tidak cocok.</translation>
     </message>
     <message id="lipstick-jolla-home-la-pairing_error_rejected">
         <location filename="../bluetooth/BluetoothPairing.qml" line="94"></location>
@@ -165,13 +165,13 @@
         <location filename="../bluetooth/obex/IncomingFileConfirmationWindow.qml" line="56"></location>
         <source>Bluetooth file transfer</source>
         <extracomment>Another Bluetooth device has requested a connection to this device</extracomment>
-        <translation>Pengiriman berkas Bluetooth</translation>
+        <translation>Pengiriman fail Bluetooth</translation>
     </message>
     <message id="lipstick-jolla-home-la-obex_receive_file">
         <location filename="../bluetooth/obex/IncomingFileConfirmationWindow.qml" line="60"></location>
         <source>Receive the following file from %1?</source>
         <extracomment>Ask the user to allow/deny an incoming file transfer from another Bluetooth device. %1 = the other device's name</extracomment>
-        <translation>Terima pengiriman berkas berikut dari %1?</translation>
+        <translation>Terima pengiriman fail berikut dari %1?</translation>
     </message>
     <message id="lipstick-jolla-home-la-file_transfer_deny">
         <location filename="../bluetooth/obex/IncomingFileConfirmationWindow.qml" line="83"></location>
@@ -240,12 +240,12 @@
     <message id="lipstick-jolla-home-la-usb_storage_unlocking_not_authorized">
         <location filename="../windowprompt/StorageDeviceSystemDialog.qml" line="215"></location>
         <source>USB storage unlocking not authorized</source>
-        <translation>Pembukaan penyimpanan USB tidak terotentikasi</translation>
+        <translation>Pembukaan penyimpanan USB tidak terautentikasi</translation>
     </message>
     <message id="lipstick-jolla-home-la-memory_card_unlocking_not_authorized">
         <location filename="../windowprompt/StorageDeviceSystemDialog.qml" line="217"></location>
         <source>Memory card unlocking not authorized</source>
-        <translation>Pembukaan kartu memori tidak terotentikasi</translation>
+        <translation>Pembukaan kartu memori tidak terautentikasi</translation>
     </message>
     <message id="lipstick-jolla-home-la-usb_storage_unlocking_not_permitted">
         <location filename="../windowprompt/StorageDeviceSystemDialog.qml" line="222"></location>
@@ -591,12 +591,12 @@
     <message id="lipstick-jolla-home-la-vpnagent_openconnect_cacert">
         <location filename="../qml/connectivity/VpnAgent.qml" line="101"></location>
         <source>Additional CA keys file</source>
-        <translation>Berkas kunci CA tambahan </translation>
+        <translation>Fail kunci CA tambahan </translation>
     </message>
     <message id="lipstick-jolla-home-la-vpnagent_openconnect_clientcert">
         <location filename="../qml/connectivity/VpnAgent.qml" line="104"></location>
         <source>Client certificate file</source>
-        <translation>Berkas sertifikat klien</translation>
+        <translation>Fail sertifikat klien</translation>
     </message>
     <message id="lipstick-jolla-home-la-vpnagent_openconnect_servercert">
         <location filename="../qml/connectivity/VpnAgent.qml" line="107"></location>
@@ -785,7 +785,7 @@
     <message id="lipstick-jolla-home-la-open_file">
         <location filename="../qml/launcher/OpenFileDialog.qml" line="52"></location>
         <source>Open file</source>
-        <translation>Buka berkas</translation>
+        <translation>Buka fail</translation>
     </message>
     <message id="lipstick-jolla-home-la-open_link">
         <location filename="../qml/launcher/OpenFileDialog.qml" line="54"></location>
@@ -800,7 +800,7 @@
     <message id="lipstick-jolla-home-la-choose_application">
         <location filename="../qml/launcher/OpenFileDialog.qml" line="81"></location>
         <source>Choose an app to continue.</source>
-        <translation>Pilih aplikasi untuk melanjutkan</translation>
+        <translation>Pilih aplikasi untuk melanjutkan.</translation>
     </message>
     <message id="lipstick-jolla-home-bt-devicelock_ok">
         <location filename="../qml/lockscreen/DeviceLockView.qml" line="26"></location>
@@ -1004,7 +1004,7 @@
         <location filename="../qml/volumecontrol/Screenshot.qml" line="71"></location>
         <source>Screenshot shortcut disabled by %1 Device Manager</source>
         <extracomment>System notification when MDM policy prevents screenshot being made %1 is an operating system name without the OS suffix</extracomment>
-        <translation>Pintasan tangkapan layar dinonaktifkan oleh %1 Device Manager</translation>
+        <translation>Pintasan tangkapan layar dinonaktifkan oleh Pengelola Perangkat %1</translation>
     </message>
     <message id="lipstick-jolla-home-la-muted">
         <location filename="../qml/volumecontrol/VolumeControl.qml" line="222"></location>
@@ -1172,7 +1172,7 @@
         <location filename="openfileagent.cpp" line="54"></location>
         <source>File type '%1' is not supported</source>
         <extracomment>Notification text shown when user tries to open a file of a type that is not supported %1 represents mime type, e.g. image/djvu, video/3gp, etc.</extracomment>
-        <translation>Jenis file '% 1' tidak didukung</translation>
+        <translation>Jenis fail '%1' tidak didukung</translation>
     </message>
     <message id="lipstick_jolla-screenshot_captured">
         <location filename="screenshotdbusservice.cpp" line="88"></location>
